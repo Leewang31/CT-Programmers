@@ -1,4 +1,4 @@
-//아이템 줍기
+//아이템 줍기/fail
 function solution(rectangle, characterX, characterY, itemX, itemY) {
     let answer = 0;
     let maps = new Array(20).fill(0).map(() => new Array(20).fill(undefined));
